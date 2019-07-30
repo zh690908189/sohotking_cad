@@ -1,0 +1,3 @@
+[submodule "Digital_Signal_Inverter"]
+	path = Digital_Signal_Inverter
+	url = git@github.com:zh690908189/Digital_Signal_Inverter.git
